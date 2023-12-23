@@ -1,0 +1,13 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "title": "Auth module",
+      "version": "v1"
+    },
+    "paths": {
+      
+    },
+    "consumes": [
+      "application/json"
+    ]
+  }
